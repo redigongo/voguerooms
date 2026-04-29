@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-label="Sunlit holiday room near the Adriatic coast in Golem">
+  <defs>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8f7f4"/>
+      <stop offset="1" stop-color="#9fe1cb"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f6e56"/>
+      <stop offset="1" stop-color="#1d9e75"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="980" fill="#04342c"/>
+  <rect x="610" y="0" width="990" height="980" fill="url(#wall)"/>
+  <rect x="760" y="120" width="610" height="420" rx="10" fill="#ffffff" opacity="0.92"/>
+  <rect x="810" y="170" width="510" height="250" fill="url(#sea)"/>
+  <path d="M810 345c120-58 214-58 332 0s175 56 178 55v20H810z" fill="#f8f7f4" opacity="0.74"/>
+  <circle cx="1210" cy="230" r="60" fill="#f4d38c"/>
+  <rect x="730" y="620" width="720" height="160" rx="22" fill="#fff"/>
+  <rect x="775" y="570" width="260" height="130" rx="18" fill="#f8f7f4"/>
+  <rect x="1055" y="570" width="260" height="130" rx="18" fill="#f8f7f4"/>
+  <rect x="665" y="760" width="860" height="70" rx="18" fill="#e5e4e0"/>
+  <rect x="0" y="700" width="1600" height="280" fill="#d8c7a7"/>
+  <path d="M0 0h690v980H0z" fill="#04342c" opacity="0.82"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Outdoor table with coastal meal in Golem">
+  <rect width="1200" height="700" fill="#f8f7f4"/>
+  <rect y="0" width="1200" height="300" fill="#d8f0e8"/>
+  <rect y="300" width="1200" height="400" fill="#d8c7a7"/>
+  <circle cx="600" cy="390" r="150" fill="#ffffff"/>
+  <circle cx="600" cy="390" r="92" fill="#e5e4e0"/>
+  <path d="M545 390c35-44 77-44 110 0-34 38-74 38-110 0Z" fill="#0f6e56"/>
+  <circle cx="840" cy="365" r="55" fill="#ffffff"/>
+  <rect x="815" y="300" width="50" height="90" rx="25" fill="#1d9e75"/>
+  <rect x="265" y="335" width="150" height="105" rx="18" fill="#ffffff"/>
+  <rect x="296" y="365" width="88" height="44" rx="12" fill="#f4d38c"/>
+</svg>

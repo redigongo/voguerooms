@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Road toward Golem and the Adriatic coast">
+  <rect width="1200" height="700" fill="#f8f7f4"/>
+  <rect width="1200" height="330" fill="#9fe1cb"/>
+  <rect y="330" width="1200" height="370" fill="#d8c7a7"/>
+  <path d="M520 700 690 330h90l250 370z" fill="#04342c"/>
+  <path d="M728 360 672 700" stroke="#f8f7f4" stroke-width="12" stroke-dasharray="34 26"/>
+  <path d="M0 330c160-70 285-70 440 0s280 68 430 0 245-64 330 0v45H0z" fill="#0f6e56"/>
+</svg>
