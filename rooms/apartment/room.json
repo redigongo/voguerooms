@@ -4,10 +4,10 @@
   "title": "Apartment",
   "badge": "More space",
   "alt": "Apartment at Vogue Rooms Golem",
-  "description": "A larger apartment-style option with extra room for guests who want more space during their stay.",
-  "maxPersons": 4,
-  "bedCount": 2,
-  "bedType": "1 double bed and 1 sofa bed",
+  "description": "A larger apartment-style option for up to five guests, with a double bed, single bed and two sofa beds.",
+  "maxPersons": 5,
+  "bedCount": 4,
+  "bedType": "1 double bed, 1 single bed and 2 sofa beds",
   "amenities": [
     "Air conditioning",
     "Private bathroom",
@@ -15,8 +15,8 @@
     "Kitchenette"
   ],
   "properties": [
-    "Max 4 persons",
-    "1 double bed and 1 sofa bed",
+    "Max 5 persons",
+    "1 double bed, 1 single bed and 2 sofa beds",
     "Kitchenette"
   ],
   "thumbnail": "/rooms/apartment/thumbnail.svg",

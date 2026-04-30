@@ -1,12 +1,17 @@
 {
-  "phone": "",
-  "email": "",
-  "whatsappNumber": "",
-  "instagramUrl": "",
-  "tiktokUrl": "",
-  "facebookUrl": "",
+  "phone": "+355684631255",
+  "email": "vogue.rooms24@gmail.com",
+  "whatsappNumber": "355684631255",
+  "instagramUrl": "https://www.instagram.com/vogue15_rooms/",
+  "tiktokUrl": "https://www.tiktok.com/@vogue.rooms",
+  "facebookUrl": "https://www.facebook.com/share/1573h3NZp1/",
   "address": "Rruga Liria, 2501 Golem, Albania",
   "mapQuery": "Vogue Rooms, Rruga Liria, 2501 Golem, Albania",
-  "mapsUrl": "https://maps.app.goo.gl/KWSsFBR25bLPuKND6",
-  "otherLinks": []
+  "mapsUrl": "https://maps.app.goo.gl/fUnH4jDmnW61fnqM8",
+  "otherLinks": [
+    {
+      "label": "Leave a Google review",
+      "url": "https://g.page/r/CfqZG1uIGS4BEAE/review"
+    }
+  ]
 }
