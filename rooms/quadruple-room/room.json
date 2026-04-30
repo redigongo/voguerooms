@@ -8,6 +8,16 @@
   "maxPersons": 4,
   "bedCount": 3,
   "bedType": "1 double bed and 2 single beds",
+  "beds": [
+    {
+      "type": "double",
+      "count": 1
+    },
+    {
+      "type": "single",
+      "count": 2
+    }
+  ],
   "amenities": [
     "Air conditioning",
     "Private bathroom",
