@@ -19,8 +19,10 @@
     "1 double bed and 2 single beds",
     "Balcony"
   ],
-  "thumbnail": "/rooms/quadruple-room/thumbnail.svg",
+  "thumbnail": "/rooms/quadruple-room/thumbnail.webp",
   "photos": [
-    "/rooms/quadruple-room/photos/sample.svg"
+    "/rooms/quadruple-room/photos/room-4-IMG-20240622-WA0054.webp",
+    "/rooms/quadruple-room/photos/room-4.webp",
+    "/rooms/quadruple-room/photos/room-4-1414.webp"
   ]
 }

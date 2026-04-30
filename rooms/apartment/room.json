@@ -19,8 +19,10 @@
     "1 double bed, 1 single bed and 2 sofa beds",
     "Kitchenette"
   ],
-  "thumbnail": "/rooms/apartment/thumbnail.svg",
+  "thumbnail": "/rooms/apartment/thumbnail.webp",
   "photos": [
-    "/rooms/apartment/photos/sample.svg"
+    "/rooms/apartment/photos/room-1-IMG-20240622-WA0070.webp",
+    "/rooms/apartment/photos/room-1-IMG-20240622-WA0079.webp",
+    "/rooms/apartment/photos/room-1IMG-20240622-WA0084.webp"
   ]
 }
