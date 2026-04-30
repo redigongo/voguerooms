@@ -1,0 +1,26 @@
+{
+  "id": "triple-room",
+  "adminTitle": "Triple Room",
+  "title": "Triple Room",
+  "badge": "Comfortable stay",
+  "alt": "Triple room at Vogue Rooms Golem",
+  "description": "A comfortable room for up to three guests, close to the beach and set up for an easy stay in Golem.",
+  "maxPersons": 3,
+  "bedCount": 2,
+  "bedType": "1 double bed and 1 single bed",
+  "amenities": [
+    "Air conditioning",
+    "Private bathroom",
+    "Free Wi-Fi",
+    "Flat-screen TV"
+  ],
+  "properties": [
+    "Max 3 persons",
+    "1 double bed and 1 single bed",
+    "Private bathroom"
+  ],
+  "thumbnail": "/rooms/triple-room/thumbnail.svg",
+  "photos": [
+    "/rooms/triple-room/photos/sample.svg"
+  ]
+}

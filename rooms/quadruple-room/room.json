@@ -1,0 +1,26 @@
+{
+  "id": "quadruple-room",
+  "adminTitle": "Quadruple Room",
+  "title": "Quadruple Room",
+  "badge": "Family choice",
+  "alt": "Quadruple room at Vogue Rooms Golem",
+  "description": "A practical room for up to four guests with the basics needed for a relaxed beach stay.",
+  "maxPersons": 4,
+  "bedCount": 3,
+  "bedType": "1 double bed and 2 single beds",
+  "amenities": [
+    "Air conditioning",
+    "Private bathroom",
+    "Free Wi-Fi",
+    "Balcony"
+  ],
+  "properties": [
+    "Max 4 persons",
+    "1 double bed and 2 single beds",
+    "Balcony"
+  ],
+  "thumbnail": "/rooms/quadruple-room/thumbnail.svg",
+  "photos": [
+    "/rooms/quadruple-room/photos/sample.svg"
+  ]
+}
